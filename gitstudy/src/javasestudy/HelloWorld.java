@@ -7,6 +7,7 @@ public class HelloWorld {
 		
 		
 		System.out.println("始于颜值，忠于人品");
+		System.out.println("hello");
 		
 			
 	}
